@@ -6,3 +6,6 @@ the movement for Apex Legends.
 
 It currently has climbing, 8 directional movement with the animations adjusting accordingly, sprinting, crouching, sliding and the next major step to working is
 the relative movement for the iconic Air Strafing (I know the original Quake introduced the first iteration of air strafing).
+
+*IMPORTANT*
+As this is a first draft and I am still getting comfortable with Unreal there are some inconsistencies with the organisation but I hope that can be forgiven.

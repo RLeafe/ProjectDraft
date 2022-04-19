@@ -66,7 +66,7 @@ void AFemaleCharacterBase::LookUpAtRate(float Value)
 
 void AFemaleCharacterBase::ActionPressed()
 {
-	FVector Loc;
+	/*FVector Loc;
 	FRotator Rot;
 	FHitResult Hit;
 
@@ -80,7 +80,7 @@ void AFemaleCharacterBase::ActionPressed()
 	FCollisionQueryParams TraceParams;
 	GetWorld()->LineTraceSingleByChannel(Hit, Start, End, ECC_Visibility, TraceParams);
 
-	DrawDebugLine(GetWorld(), Start, End, FColor::Purple, false, 2.0);
+	DrawDebugLine(GetWorld(), Start, End, FColor::Purple, false, 2.0);*/
 }
 
 // Called every frame
